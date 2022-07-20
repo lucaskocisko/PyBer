@@ -12,7 +12,7 @@ The urban city type by fare the highest earing city type.
 
 ![](https://github.com/lucaskocisko/PyBer_Analysis/blob/main/Resources/total_drivers_by_city.png)
 ![](https://github.com/lucaskocisko/PyBer_Analysis/blob/main/Resources/total_rides_by_city.png)
-![](https://github.com/lucaskocisko/PyBer_Analysis/blob/main/Resources/total_fares_by_driver.png)
+![](https://github.com/lucaskocisko/PyBer_Analysis/blob/main/Resources/total_fares_by_city.png)
 
 The Urban City type has the highest percentage of total drivers, fares, and rides.
 
