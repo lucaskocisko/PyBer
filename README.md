@@ -8,7 +8,7 @@ This analysis reviews a startup ridesharing company. Pulls data from multiple so
 
 ![](https://github.com/lucaskocisko/PyBer_Analysis/blob/main/Resources/ridecount_data.png)
 
-The urban city type by fare the highest earing city type. 
+The urban city is the highest earing city type. 
 
 ![](https://github.com/lucaskocisko/PyBer_Analysis/blob/main/Resources/total_drivers_by_city.png)
 ![](https://github.com/lucaskocisko/PyBer_Analysis/blob/main/Resources/total_rides_by_city.png)
